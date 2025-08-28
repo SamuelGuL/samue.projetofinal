@@ -1,4 +1,4 @@
-package seunomeaqui.modeloprojetofinal;
+package samuel.modeloprojetofinal;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

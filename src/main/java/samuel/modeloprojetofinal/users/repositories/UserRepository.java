@@ -1,8 +1,8 @@
-package seunomeaqui.modeloprojetofinal.users.repositories;
+package samuel.modeloprojetofinal.users.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
-import seunomeaqui.modeloprojetofinal.users.entities.User;
+import samuel.modeloprojetofinal.users.entities.User;
 
 import java.util.List;
 
